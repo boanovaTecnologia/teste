@@ -2,7 +2,7 @@
 
 Sistema administrativo
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.postimg.cc/2jGHZNYs/capa-github.jpg" alt=""/><br><br/>
+--<img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.postimg.cc/2jGHZNYs/capa-github.jpg" alt=""/><br><br/>
 
 > Status do Projeto: Em desenvolvimento :warning:
 
@@ -22,7 +22,6 @@ Sistema administrativo
 ## Demonstração 🎨
 
 O layout da aplicação está disponível no Figma:
-[Cravo&Canela Consultoria](https://www.figma.com/proto/tlQ5tutvgwqbW5jTcfpYsQ/Consultoria-Cravo%26Canela?node-id=3%3A105&scaling=scale-down&page-id=2%3A2&starting-point-node-id=69%3A2105)
 
 ---
 
@@ -611,10 +610,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:raquelsscode/Girls-Tech-Power.git
+$ git clone 
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Girls-Tech-Power
+$ cd 
 
 # Iniciar API no Eclipse
 ```
@@ -622,8 +621,4 @@ $ cd Girls-Tech-Power
 
 ## Autoras 👥
 
-- [Barbara Cortez](https://github.com/Barbaraccortez)
-- [Carolina Zampieri](https://github.com/Carolina-Zampieri)
 - [Daniela Cabrera](https://github.com/danielacabrera2103)
-- [Juliana Abumansur](https://github.com/jtabumansur)
-- [Raquel Santos](https://github.com/raquelsscode)
