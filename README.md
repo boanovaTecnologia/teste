@@ -2,12 +2,7 @@
 
 Sistema administrativo
 
---<img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.postimg.cc/2jGHZNYs/capa-github.jpg" alt=""/><br><br/>
-
 > Status do Projeto: Em desenvolvimento :warning:
-
----
-
 
 ## Funcionalidades 📄
 
