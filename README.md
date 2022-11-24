@@ -614,6 +614,6 @@ $ cd
 ```
 ---
 
-## Autoras 👥
+## Autores 👥
 
 - [Daniela Cabrera](https://github.com/danielacabrera2103)
